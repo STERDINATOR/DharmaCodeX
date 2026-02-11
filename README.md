@@ -724,5 +724,6 @@ DharmaCodex draws inspiration from:
 ---
 
 **Built with 🕉️ for the next generation of logical thinkers.**
-#   D h a r m a C o d e X  
+#   D h a r m a C o d e X 
+ 
  
